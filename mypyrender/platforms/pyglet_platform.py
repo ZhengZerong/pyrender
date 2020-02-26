@@ -1,4 +1,4 @@
-from pyrender.constants import OPEN_GL_MAJOR, OPEN_GL_MINOR
+from mypyrender.constants import OPEN_GL_MAJOR, OPEN_GL_MINOR
 from .base import Platform
 
 import OpenGL
